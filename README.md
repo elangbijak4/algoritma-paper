@@ -1,1 +1,1 @@
-# algoritma-dinda-new
+# algoritma untuk paper
